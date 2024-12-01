@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1,
+        "title": "python",
+        "description": "do python seminar",
+        "done": true,
+        "priority": "\u0412\u044b\u0441\u043e\u043a\u0438\u0439",
+        "due_date": "01-12-2024"
+    }
+]
